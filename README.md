@@ -1,5 +1,7 @@
 # MyData Architecture - *The Stack*
 
+Note: This repository contains archived historical material produched in Digital Health Revolution project. This repository is mainteined only for informational reasons and repository is not actively maintained so it may contain dead links. Current version can be found from [https://github.com/mydata-sdk/mydata-docs/](https://github.com/mydata-sdk/mydata-docs/)
+
 [![Join the chat at https://gitter.im/mydata-stack/Lobby](https://badges.gitter.im/mydata-stack/Lobby.svg)](https://gitter.im/mydata-stack/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This page documents the workflow for contributing to the future revisions of the specifications. For reading and downloading the latest release see. http://github.com/mydata-sdk/mydata-stack-1.x
