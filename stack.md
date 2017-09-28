@@ -374,15 +374,15 @@ All Data Connections are recorded in the Audit Log.* *
 
 [1] MyData White paper, [http://urn.fi/URN:ISBN:978-952-243-455-5](http://urn.fi/URN:ISBN:978-952-243-455-5).
 
-[2] MyData Account, [https://github.com/HIIT/mydata-stack/blob/master/mydata-account](https://github.com/HIIT/mydata-stack/blob/master/mydata-account.pdf).
+[2] MyData Account, [https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-account](https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-account.pdf).
 
-[3] MyData Service Registry, [https://github.com/HIIT/mydata-stack/blob/master/mydata-service-registry](https://github.com/HIIT/mydata-stack/blob/master/mydata-service-registry.pdf).
+[3] MyData Service Registry, [https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-service-registry](https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-service-registry.pdf).
 
-[4] MyData Service Linking, [https://github.com/HIIT/mydata-stack/blob/master/mydata-service-linking](https://github.com/HIIT/mydata-stack/blob/master/mydata-service-linking.pdf).
+[4] MyData Service Linking, [https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-service-linking](https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-service-linking.pdf).
 
-[5] MyData Authorisation, [https://github.com/HIIT/mydata-stack/blob/master/mydata-data-authz](https://github.com/HIIT/mydata-stack/blob/master/mydata-data-authz.pdf).
+[5] MyData Authorisation, [https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-data-authz](https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-data-authz.pdf).
 
-[6] MyData Data Connection, [https://github.com/HIIT/mydata-stack/blob/master/mydata-dconnection](https://github.com/HIIT/mydata-stack/blob/master/mydata-dconnection.pdf).
+[6] MyData Data Connection, [https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-dconnection](https://github.com/mydata-sdk/mydata-stack-1.x/blob/master/mydata-dconnection.pdf).
 
 # Appendix 1: Glossary
 

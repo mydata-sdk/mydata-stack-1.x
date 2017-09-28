@@ -2,13 +2,13 @@
 
 [![Join the chat at https://gitter.im/mydata-stack/Lobby](https://badges.gitter.im/mydata-stack/Lobby.svg)](https://gitter.im/mydata-stack/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-This page documents the workflow for contributing to the future revisions of the specifications. For reading and downloading the latest release see. http://hiit.github.io/mydata-stack
+This page documents the workflow for contributing to the future revisions of the specifications. For reading and downloading the latest release see. http://github.com/mydata-sdk/mydata-stack-1.x
 
 ## Contributing to the specification (open for all)
 
-- Read the specification at: http://hiit.github.io/mydata-stack/stack.html
+- Read the specification at: http://github.com/mydata-sdk/mydata-stack-1.x/stack.html
 - Join the chat at: https://gitter.im/mydata-stack/Lobby
-- Suggest changes with Github issues: https://github.com/HIIT/mydata-stack/issues
+- Suggest changes with Github issues: https://github.com/mydata-sdk/mydata-stack-1.x/issues
 - Comment and suggest changes directly: http://bit.ly/sourcemarkdown
 - Contact: Harri Honko (harri.honko@tut.fi) or Antti Poikola (antti.poikola@hiit.fi)
 
@@ -27,7 +27,7 @@ B) Run on your command-line the following curl command:
 
 ## Publishing in github
 
-```git clone https://github.com/HIIT/mydata-stack.git```
+```git clone https://github.com/mydata-sdk/mydata-stack-1.x.git```
 
 Download the plain txt [stack.bs](http://bit.ly/mydata2html) -file from Google Drive to the created mydata-stack folder (replace the older version of the file)
 
@@ -44,5 +44,5 @@ git push
 
 ```
 
-New version should be now visible in: http://hiit.github.io/mydata-stack/stack.html
+New version should be now visible in: http://github.com/mydata-sdk/mydata-stack-1.x/stack.html
 

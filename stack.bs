@@ -4,7 +4,7 @@ Shortname: mobility-profile-spec
 Level: 1.2
 Status: LS
 URL: 
-Repository: HIIT/mydata-stack
+Repository: mydata-sdk/mydata-stack-1.x
 Editor: Anette Alén-Savikko, Aalto University / Helsinki Institute for Information Technology HIIT
 Editor: Nomi Byström, Aalto University / Helsinki Institute for Information Technology HIIT
 Editor: Harri Hirvonsalo, University of Oulu
@@ -19,14 +19,14 @@ Editor: Samuli Tuoriniemi, University of Oulu
 Editor: Sari Vainikainen, VTT Oy
 Editor: Jani Yli-Kantola, University of Oulu
 Abstract: 
-!Version History: <a href="https://github.com/HIIT/mydata-stack/commits">https://github.com/HIIT/mydata-stack/commits</a>
-!Participate: <a href="https://github.com/HIIT/mydata-stack/issues/new">File an issue</a> (<a href="https://github.com/HIIT/mydata-stack/issues?state=open">open issues</a>)
+!Version History: <a href="https://github.com/mydata-sdk/mydata-stack-1.x/commits">https://github.com/mydata-sdk/mydata-stack-1.x/commits</a>
+!Participate: <a href="https://github.com/mydata-sdk/mydata-stack-1.x/issues/new">File an issue</a> (<a href="https://github.com/mydata-sdk/mydata-stack-1.x/issues?state=open">open issues</a>)
 </pre>
 
 
 <img width=200 src='images/mydata_logo.png'>[a][b]
 
-README : [https://github.com/HIIT/mydata-stack](https://github.com/HIIT/mydata-stack)
+README : [https://github.com/mydata-sdk/mydata-stack-1.x](https://github.com/mydata-sdk/mydata-stack-1.x)
 
 **Notice** 
 
